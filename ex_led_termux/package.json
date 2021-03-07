@@ -1,0 +1,16 @@
+{
+  "name": "johnny-five-android-termux",
+  "version": "1.0.5",
+  "description": "Johnny-Five TCP client for Android devices running Termux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Brooke Peig",
+  "license": "MIT",
+  "dependencies": {
+    "firmata": "^2.2.0",
+    "johnny-five": "^2.0.0",
+    "mock-require": "^3.0.3"
+  }
+}
